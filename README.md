@@ -24,9 +24,9 @@ This repository documents my journey exploring how neuroscience informs and insp
 
 ## 🧪 Highlights
 
-- 💡 *Midterm Report on Cortical Labs CL1*: Analyzed a real biological-silicon hybrid system
-- ⚖️ *AGI Legal Brief*: Defended the feasibility and promise of Artificial General Intelligence
-- 🎨 *Neuroplasticity Exhibit Design*: Bridged public understanding of neuroscience and AI
+- *Midterm Report on Cortical Labs CL1*: Analyzed a real biological-silicon hybrid system
+- *AGI Legal Brief*: Defended the feasibility and promise of Artificial General Intelligence
+- *Neuroplasticity Exhibit Design*: Bridged public understanding of neuroscience and AI
 
 ## 👩‍🏫 Course Details
 
