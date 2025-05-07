@@ -8,11 +8,13 @@ This repository documents my journey exploring how neuroscience informs and insp
 
 ## 📁 Folder Structure
 
-- `Module_01` to `Module_06`: Weekly labs and analysis
-- `Group_Assignments`: Collaborations with classmates
-- `Mid_Term_Paper`: In-depth research on Cortical Labs CL1
-- `AGI_Assignment`: Legal brief defending the emergence of AGI
-- `Presentation`: A summary of the most significant insights and contributions
+- `Capstone Project` – Research on the Cortical Labs CL1 biological computer
+- `Mid Term Project` – Legal brief: *The Case for AGI – Defense*
+- `Module 01` – Assignment 01: A conversation between Brain and AI
+- `Module 03` – Neural information processing analysis
+- `Module 04` – Team assignment: Learning in the Brain vs. Machine Learning
+- `Module 05` – Reflection on biologically inspired neural mechanisms
+- `Module 06` – Cognitive neuroscience concept exhibit (Neuroplasticity)
 
 ## 🧠 Key Concepts Explored
 
